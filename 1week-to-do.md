@@ -29,5 +29,5 @@
 
 > 6,7 [described here](https://github.com/alinamarasca/incremental-development/blob/master/planning-and-collaborating/2-project-definition.md)
 
-1. Create project board with milestones LATER
+1. Create project board with milestones Mayuri or LATER
    <https://github.com/alinamarasca/incremental-development/blob/master/planning-and-collaborating/5-project-board.md>
