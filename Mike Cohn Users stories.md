@@ -17,9 +17,13 @@
 3. Confirmation - meet expectations
 
 As a **user** i want to reserve hotel room.
+
 As a **user** I want to cancel reservation.
+
 As a **vacation traveler** I want to see photos of the hotels.
+
 As a **frequent flyer** I want to rebook a past trip **so that I save time booking trips I take often**.
+
 
 > ### As a user, I can cancel a reservation.
 
@@ -41,7 +45,9 @@ Create a test case. I cancel reservation, write **acceptance criteria**, what wo
 - verify that hotel is notified about cancellation
 
 Or we can use smaller stories:
+
 As a premium site member...
+
 As a non-premium site member...
 
 ### Backlog
@@ -54,11 +60,11 @@ Some important big stories are called **epic**. Break them into smaller ones, an
 ## Writing user's stories.
 
 **Logging in**
-*As a **registered user** I am required to log in so that I can access the system.
-*As a **forgetful user** I can request a password reminder so that I can log in if I forgot mine.
-As a **new user** I can create and account so that I can come back to saved materials.
-As a **user logging in for the 5th time** I can get a discount.
-As a **chief security officer** I want passwords be min 8 letters longs, using cases and special signs.
+* As a **registered user** I am required to log in so that I can access the system.
+* As a **forgetful user** I can request a password reminder so that I can log in if I forgot mine.
+* As a **new user** I can create and account so that I can come back to saved materials.
+* As a **user logging in for the 5th time** I can get a discount.
+* As a **chief security officer** I want passwords be min 8 letters longs, using cases and special signs.
 
 ## How do you write user's stories?
 
