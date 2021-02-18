@@ -2,6 +2,7 @@ I've already closed few, but than decided to make a list of materials and note w
 
 ## Motto:
 https://www.youtube.com/watch?v=3T_Jy1CqH9k
+
 https://www.youtube.com/watch?v=xoRbkm8XgfQ
 
 **challenge** 
